@@ -1,0 +1,8 @@
+# Ignore files in Dispatcher
+Dispatcher/Meeting Downloader/Input/Initial_Filing_Info.xlsx
+Dispatcher/Meeting Downloader/Documentation/ConfigFile_MeetingsDownloader.xlsx
+
+# Ignore files in Performer
+Performer/Board Meetings Extractor/Documentation/ConfigFile_Performer.xlsx
+Performer/Board Meetings Extractor/Output/Meeting_Crawler_Output.xlsx
+Performer/Board Meetings Extractor/Input/Initial_Filing_Info.xlsx
